@@ -1,2 +1,0 @@
-# StudentRegister
-Created with CodeSandbox

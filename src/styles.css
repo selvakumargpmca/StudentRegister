@@ -1,0 +1,50 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  color: coral;
+}
+
+.Emp {
+  border: 1px, solid, black;
+}
+
+table {
+  border: 2px solid coral;
+  width: 100%;
+  height: 100%;
+  overflow: visible;
+  overflow: scroll;
+}
+
+th,
+td {
+  border: 1px solid black;
+}
+
+.button {
+  border: none;
+  padding: 20px;
+  text-align: 20px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 20%;
+}
+.button2 {
+  background-color: coral;
+  color: white;
+}
+.button3 {
+  background-color: darkolivegreen;
+  color: white;
+}
+.disabled {
+  opacity: 0.2;
+  cursor: not-allowed;
+}
+
+input:hover {
+  opacity: 0.8;
+}
